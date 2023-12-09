@@ -1,2 +1,2 @@
-bannedhwid staff reason
-hwid-1 lunar hack usage.
+bannedhwid:staff:reason
+hwid-1:lunar:hack usage.
