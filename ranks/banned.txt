@@ -1,1 +1,2 @@
 bannedhwid:staff:reason
+testhwid:testname:testreason
